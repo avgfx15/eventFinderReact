@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "id": 2,
+      "title": "Call for Car Service",
+      "description": "Pick up and Drop facility",
+      "status": "Complete"
+    },
+    {
+      "id": "3",
+      "title": "Meeting With Swami",
+      "description": "Meeting plan with Swami for Seve and Form submittion",
+      "status": "In Complete",
+      "": "1"
+    },
+    {
+      "id": "4",
+      "title": "Call To Mr Robin Sir",
+      "description": "Call Mr. Robin sir for new Chemistry sir replacement.",
+      "status": "In Completee"
+    },
+    {
+      "id": "5",
+      "title": "Charging",
+      "description": "Charge your bluetooth speaker for watching",
+      "status": "In Completee"
+    }
+  ]
+}
